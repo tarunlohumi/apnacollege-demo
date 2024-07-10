@@ -1,3 +1,3 @@
 # apnacollege-demo
-
-author - Tarun Lohumi
+<br>
+author - Tarun Lohumi (tlohumi)
